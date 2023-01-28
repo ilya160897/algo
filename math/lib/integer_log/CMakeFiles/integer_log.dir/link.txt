@@ -1,0 +1,2 @@
+/usr/bin/ar cr libinteger_log.a  CMakeFiles/integer_log.dir/integer_log.cpp.o
+/usr/bin/ranlib libinteger_log.a

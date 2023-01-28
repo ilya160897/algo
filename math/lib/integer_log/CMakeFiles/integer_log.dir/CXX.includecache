@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bogdanof/algo/math/lib/integer_log/integer_log.cpp
+integer_log.h
+/home/bogdanof/algo/math/lib/integer_log/integer_log.h
+
+/home/bogdanof/algo/math/lib/integer_log/integer_log.h
+cmath
+-
+

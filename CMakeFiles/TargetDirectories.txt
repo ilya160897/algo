@@ -1,0 +1,13 @@
+/home/bogdanof/algo/unk/comp_long_numbers/CMakeFiles/bin/comp_long_numbers.dir
+/home/bogdanof/algo/unk/dinner_with_natasha/CMakeFiles/bin/dinner_with_natasha.dir
+/home/bogdanof/algo/graph/graph/CMakeFiles/bin/graph.dir
+/home/bogdanof/algo/math/lib/integer_log/CMakeFiles/bin/integer_log.dir
+/home/bogdanof/algo/unk/labyrinth/CMakeFiles/bin/labyrinth.dir
+/home/bogdanof/algo/two-pointers/longest_k_good_segment/CMakeFiles/bin/longest_k_good_segment.dir
+/home/bogdanof/algo/graph/lca/max_edge_up_to_lca/CMakeFiles/bin/max_edge_up_to_lca.dir
+/home/bogdanof/algo/graph/mst/prim_algorithm/CMakeFiles/bin/prim_algorithm.dir
+/home/bogdanof/algo/CMakeFiles/contrib_catch_main.dir
+/home/bogdanof/algo/graph/graph/CMakeFiles/custom_graph.dir
+/home/bogdanof/algo/math/lib/integer_log/CMakeFiles/integer_log.dir
+/home/bogdanof/algo/graph/lca/max_edge_up_to_lca/CMakeFiles/max_edge_up_to_lca.dir
+/home/bogdanof/algo/CMakeFiles/test-all.dir

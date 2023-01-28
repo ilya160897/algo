@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/home/bogdanof/algo",
+  "command": "/home/linuxbrew/.linuxbrew/bin/clang++     -std=c++20 -Wall -Werror -Wextra -Wpedantic -g -g -I/home/bogdanof/algo/tools/catch -I/home/bogdanof/algo/tools/util    -o CMakeFiles/contrib_catch_main.dir/tools/catch/catch_main.cpp.o -c /home/bogdanof/algo/tools/catch/catch_main.cpp",
+  "file": "/home/bogdanof/algo/tools/catch/catch_main.cpp"
+},
+{
+  "directory": "/home/bogdanof/algo/graph/graph",
+  "command": "/home/linuxbrew/.linuxbrew/bin/clang++     -std=c++20 -Wall -Werror -Wextra -Wpedantic -g -g -I/home/bogdanof/algo/tools/util -I/home/bogdanof/algo/graph/graph -I/home/bogdanof/algo/tools/catch    -o CMakeFiles/bin/graph.dir/test.cpp.o -c /home/bogdanof/algo/graph/graph/test.cpp",
+  "file": "/home/bogdanof/algo/graph/graph/test.cpp"
+},
+{
+  "directory": "/home/bogdanof/algo/graph/graph",
+  "command": "/home/linuxbrew/.linuxbrew/bin/clang++     -std=c++20 -Wall -Werror -Wextra -Wpedantic -g -g -I/home/bogdanof/algo/tools/util -I/home/bogdanof/algo/graph/graph -I/home/bogdanof/algo/tools/catch    -o CMakeFiles/bin/graph.dir/graph.cpp.o -c /home/bogdanof/algo/graph/graph/graph.cpp",
+  "file": "/home/bogdanof/algo/graph/graph/graph.cpp"
+},
+{
+  "directory": "/home/bogdanof/algo/graph/graph",
+  "command": "/home/linuxbrew/.linuxbrew/bin/clang++     -std=c++20 -Wall -Werror -Wextra -Wpedantic -g -g -I/home/bogdanof/algo/tools/util    -o CMakeFiles/custom_graph.dir/graph.cpp.o -c /home/bogdanof/algo/graph/graph/graph.cpp",
+  "file": "/home/bogdanof/algo/graph/graph/graph.cpp"
+},
+{
+  "directory": "/home/bogdanof/algo/graph/mst/prim_algorithm",
+  "command": "/home/linuxbrew/.linuxbrew/bin/clang++     -std=c++20 -Wall -Werror -Wextra -Wpedantic -g -g -I/home/bogdanof/algo/tools/util -I/home/bogdanof/algo/graph/mst/prim_algorithm -I/home/bogdanof/algo/tools/catch    -o CMakeFiles/bin/prim_algorithm.dir/test.cpp.o -c /home/bogdanof/algo/graph/mst/prim_algorithm/test.cpp",
+  "file": "/home/bogdanof/algo/graph/mst/prim_algorithm/test.cpp"
+},
+{
+  "directory": "/home/bogdanof/algo/math/lib/integer_log",
+  "command": "/home/linuxbrew/.linuxbrew/bin/clang++     -std=c++20 -Wall -Werror -Wextra -Wpedantic -g -g -I/home/bogdanof/algo/tools/util -I/home/bogdanof/algo/math/lib/integer_log -I/home/bogdanof/algo/tools/catch    -o CMakeFiles/bin/integer_log.dir/test.cpp.o -c /home/bogdanof/algo/math/lib/integer_log/test.cpp",
+  "file": "/home/bogdanof/algo/math/lib/integer_log/test.cpp"
+},
+{
+  "directory": "/home/bogdanof/algo/math/lib/integer_log",
+  "command": "/home/linuxbrew/.linuxbrew/bin/clang++     -std=c++20 -Wall -Werror -Wextra -Wpedantic -g -g -I/home/bogdanof/algo/tools/util    -o CMakeFiles/integer_log.dir/integer_log.cpp.o -c /home/bogdanof/algo/math/lib/integer_log/integer_log.cpp",
+  "file": "/home/bogdanof/algo/math/lib/integer_log/integer_log.cpp"
+},
+{
+  "directory": "/home/bogdanof/algo/graph/lca/max_edge_up_to_lca",
+  "command": "/home/linuxbrew/.linuxbrew/bin/clang++     -std=c++20 -Wall -Werror -Wextra -Wpedantic -g -g -I/home/bogdanof/algo/tools/util -I/home/bogdanof/algo/graph/lca/max_edge_up_to_lca -I/home/bogdanof/algo/tools/catch    -o CMakeFiles/bin/max_edge_up_to_lca.dir/test.cpp.o -c /home/bogdanof/algo/graph/lca/max_edge_up_to_lca/test.cpp",
+  "file": "/home/bogdanof/algo/graph/lca/max_edge_up_to_lca/test.cpp"
+},
+{
+  "directory": "/home/bogdanof/algo/graph/lca/max_edge_up_to_lca",
+  "command": "/home/linuxbrew/.linuxbrew/bin/clang++     -std=c++20 -Wall -Werror -Wextra -Wpedantic -g -g -I/home/bogdanof/algo/tools/util    -o CMakeFiles/max_edge_up_to_lca.dir/max_edge_up_to_lca.cpp.o -c /home/bogdanof/algo/graph/lca/max_edge_up_to_lca/max_edge_up_to_lca.cpp",
+  "file": "/home/bogdanof/algo/graph/lca/max_edge_up_to_lca/max_edge_up_to_lca.cpp"
+},
+{
+  "directory": "/home/bogdanof/algo/unk/comp_long_numbers",
+  "command": "/home/linuxbrew/.linuxbrew/bin/clang++     -std=c++20 -Wall -Werror -Wextra -Wpedantic -g -g -I/home/bogdanof/algo/tools/util -I/home/bogdanof/algo/unk/comp_long_numbers -I/home/bogdanof/algo/tools/catch    -o CMakeFiles/bin/comp_long_numbers.dir/test.cpp.o -c /home/bogdanof/algo/unk/comp_long_numbers/test.cpp",
+  "file": "/home/bogdanof/algo/unk/comp_long_numbers/test.cpp"
+},
+{
+  "directory": "/home/bogdanof/algo/unk/dinner_with_natasha",
+  "command": "/home/linuxbrew/.linuxbrew/bin/clang++     -std=c++20 -Wall -Werror -Wextra -Wpedantic -g -g -I/home/bogdanof/algo/tools/util -I/home/bogdanof/algo/unk/dinner_with_natasha -I/home/bogdanof/algo/tools/catch    -o CMakeFiles/bin/dinner_with_natasha.dir/test.cpp.o -c /home/bogdanof/algo/unk/dinner_with_natasha/test.cpp",
+  "file": "/home/bogdanof/algo/unk/dinner_with_natasha/test.cpp"
+},
+{
+  "directory": "/home/bogdanof/algo/unk/labyrinth",
+  "command": "/home/linuxbrew/.linuxbrew/bin/clang++     -std=c++20 -Wall -Werror -Wextra -Wpedantic -g -g -I/home/bogdanof/algo/tools/util -I/home/bogdanof/algo/unk/labyrinth -I/home/bogdanof/algo/tools/catch    -o CMakeFiles/bin/labyrinth.dir/test.cpp.o -c /home/bogdanof/algo/unk/labyrinth/test.cpp",
+  "file": "/home/bogdanof/algo/unk/labyrinth/test.cpp"
+},
+{
+  "directory": "/home/bogdanof/algo/two-pointers/longest_k_good_segment",
+  "command": "/home/linuxbrew/.linuxbrew/bin/clang++     -std=c++20 -Wall -Werror -Wextra -Wpedantic -g -g -I/home/bogdanof/algo/tools/util -I/home/bogdanof/algo/two-pointers/longest_k_good_segment -I/home/bogdanof/algo/tools/catch    -o CMakeFiles/bin/longest_k_good_segment.dir/test.cpp.o -c /home/bogdanof/algo/two-pointers/longest_k_good_segment/test.cpp",
+  "file": "/home/bogdanof/algo/two-pointers/longest_k_good_segment/test.cpp"
+}
+]

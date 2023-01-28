@@ -1,0 +1,2 @@
+/usr/bin/ar cr libmax_edge_up_to_lca.a  CMakeFiles/max_edge_up_to_lca.dir/max_edge_up_to_lca.cpp.o
+/usr/bin/ranlib libmax_edge_up_to_lca.a

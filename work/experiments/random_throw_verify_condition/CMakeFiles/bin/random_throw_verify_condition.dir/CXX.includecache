@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bogdanof/algo/work/experiments/random_throw_verify_condition/random_throw_verify_condition.cpp
+iostream
+-
+random_throw_verify_condition.h
+/home/bogdanof/algo/work/experiments/random_throw_verify_condition/random_throw_verify_condition.h
+
+/home/bogdanof/algo/work/experiments/random_throw_verify_condition/random_throw_verify_condition.h
+random
+-
+vector
+-
+

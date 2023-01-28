@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bogdanof/algo/graph/graph/graph.cpp
+graph.h
+/home/bogdanof/algo/graph/graph/graph.h
+
+/home/bogdanof/algo/graph/graph/graph.h
+vector
+-
+utility
+-
+algorithm
+-
+sstream
+-
+vector
+-
+

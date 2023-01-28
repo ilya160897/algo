@@ -1,0 +1,1 @@
+add_catch(bin/random_throw_verify_condition test.cpp random_throw_verify_condition.cpp)
